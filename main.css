@@ -1,1 +1,32 @@
-main.css
+body{
+	background:purple;
+	margin:0px;
+}
+
+.red{
+	width:100%;
+	height:120px;
+	background:red;
+	position:top;
+	margin-top: 0px;
+}
+.yellow{
+	background-color:yellow;
+    border-top: 0px solid;
+    height:940px;
+    float: right;
+    width: 326px;
+}
+.blue{
+	background-color:blue;
+    border-top: 0px solid;
+    height:940px;
+    float:left;
+    width: 326px;
+}
+.green{
+	width:1299px;
+	float:right;
+	height:70px;
+	background:green;
+}
