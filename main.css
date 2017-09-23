@@ -12,17 +12,17 @@ body{
 }
 .yellow{
 	background-color:yellow;
-    border-top: 0px solid;
-    height:940px;
-    float: right;
-    width: 326px;
+	border-top: 0px solid;
+        height:940px;
+        float: right;
+        width: 326px;
 }
 .blue{
 	background-color:blue;
-    border-top: 0px solid;
-    height:940px;
-    float:left;
-    width: 326px;
+    	border-top: 0px solid;
+    	height:940px;
+    	float:left;
+    	width: 326px;
 }
 .green{
 	width:1299px;
